@@ -300,3 +300,4 @@ export async function monitorPosition(): Promise<boolean> {
   // true = still open
   return result.action === 'UPDATE' || result.action === 'PARTIAL_CLOSE';
 }
+
