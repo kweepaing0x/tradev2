@@ -358,3 +358,4 @@ function round(value: number, precision: number): number {
 }
 
 export const positionManager = new PositionManager();
+
