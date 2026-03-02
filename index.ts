@@ -137,3 +137,4 @@ export interface BotConfig {
   telegramToken: string;
   telegramChatId: string;
 }
+
